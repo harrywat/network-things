@@ -1,3 +1,4 @@
 Sample source content for the manual agentic workflow.
 
 This file is intentionally simple so the workflow can read it and propagate it into output.txt.
+This comes from network-things
